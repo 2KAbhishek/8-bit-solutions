@@ -37,6 +37,8 @@
 
 8-bit-solutions is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
+[Simulator](https://schweigi.github.io/assembler-simulator/index.html)
+
 ## Inspiration
 
 8-bit-solutions was inspired by `<reason/idea>`.
