@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/8-bit-solutions/main/images/screenshot.png" alt="8-bit-solutions Demo" style="width:100%">
+  <img src= "images/screenshot.png" alt="8-bit-solutions Demo" style="width:100%">
   <br/>
   <figcaption>8-bit-solutions screenshot</figcaption>
 </figure>
