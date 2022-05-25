@@ -50,12 +50,13 @@ To get 8-bit-solutions, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/8-bit-solutions
 cd 8-bit-solutions
-<install_command>
 ```
 
 ## Using 8-bit-solutions
 
 Use it as a reference for solving problems, or just to get a feel for the language.
+
+You can run the code on the [Simulator](https://schweigi.github.io/assembler-simulator/index.html)
 
 ## Challenges faced
 
