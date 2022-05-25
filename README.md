@@ -23,35 +23,29 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="8-bit-solutions Demo" style="width:100%">
-  <br/>
-  <figcaption>8-bit-solutions screenshot</figcaption>
-</figure>
+<h3>Problem Solving with less bits 🎱⏪</h3>
 
 </div>
 
 ## What is this
 
-8-bit-solutions is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Contains problems solved using 8-bit Assembly.
 
-[Simulator](https://schweigi.github.io/assembler-simulator/index.html)
+You can run the code on the [Simulator](https://schweigi.github.io/assembler-simulator/index.html)
 
 ## Inspiration
 
-8-bit-solutions was inspired by `<reason/idea>`.
+Hadn't worked with assembly since college, seemed like a fun exercise.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- Working internet and a web browser
 
 ## Getting 8-bit-solutions
 
-To install 8-bit-solutions, follow these steps:
+To get 8-bit-solutions, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/8-bit-solutions
@@ -61,46 +55,20 @@ cd 8-bit-solutions
 
 ## Using 8-bit-solutions
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
-
-## How it was built
-
-8-bit-solutions was built using `<tech/library>`
+Use it as a reference for solving problems, or just to get a feel for the language.
 
 ## Challenges faced
 
-While building 8-bit-solutions the main challenges were `<issue/difficulty>`
+It was quite tricky to work within the constraints of the language, which in turn allowed me to learn a lot.
 
 ## What I learned
 
-While building 8-bit-solutions I `<learned/accomplished>` about `<learning/accomplishment>`
+- Doing more with less
+- Intelligent use of the stack and limited registers
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+More solutions may be added in the future.
 
 Hit the ⭐ button if you found this useful.
 
