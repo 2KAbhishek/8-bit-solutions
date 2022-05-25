@@ -1,6 +1,3 @@
-; Write an assembly program that takes a null terminated string as input.
-; Display the string in reverse order in the output screen.
-
 JMP main
 text:
     DB "Apple"

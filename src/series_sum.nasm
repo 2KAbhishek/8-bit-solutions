@@ -1,6 +1,3 @@
-; Write an assembly program that takes two labeled variables as input and computes one as output.
-; Compute the total of all integers between x and y. Store the total in z.
-
 JMP main
 x: DB 10
 y: DB 17

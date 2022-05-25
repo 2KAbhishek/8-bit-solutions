@@ -1,10 +1,8 @@
-;Question 4 - Add Up
-
 JMP start_q
 
 input_value: DB 10
 
-result_value: DB 0 ;Grader will check this memory Location
+result_value: DB 0
 
 start_q:
 

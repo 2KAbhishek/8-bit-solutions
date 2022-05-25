@@ -1,6 +1,3 @@
-; Write an assembly program that has two labeled variables as input and computes one as output.
-; Have the program compute z=x^y. You can use the MUL command.
-
 JMP main
 x: DB 3
 y: DB 4

@@ -1,5 +1,3 @@
-;Question 2 - Check for Multiple of Three
-
 JMP start_q
 
 input_value: DB 36
